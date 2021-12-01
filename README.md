@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sss1stclass&label=Profile%20views&color=0e75b6&style=flat" alt="sss1stclass" /> </p>
 
-- 💬 Ask me about **HTML,CSS,JS,JAVA,C,MySQL**
+- 💬 Ask me about **HTML, CSS, JS, JAVA, C, MySQL**
 
 - 📫 How to reach me **sohilkr88@gmail.com**
 
