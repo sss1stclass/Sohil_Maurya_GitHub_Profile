@@ -5,6 +5,8 @@
 
 - 💬 Ask me about **React, Redux, Typescript, MaterialUI, TailwindCSS, C++, DSA, HTML, CSS, JS, JAVA, C, MySQL**
 
+- ✔️ Open to working for a Full-Time Job Role, and Freelancing for your project.
+
 - 📫 How to reach me **sohilkr88@gmail.com**
 
 - ⚡ Fun fact **My real name is Muskan**
