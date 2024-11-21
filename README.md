@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm puzzledBird</h1>
-<h3 align="center">A boy trying to learn full stack..</h3>
+<h3 align="center">A Passonate Frontedn Developer with experience of 2+ year</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sss1stclass&label=Profile%20views&color=0e75b6&style=flat" alt="sss1stclass" /> </p>
 
-- 💬 Ask me about **HTML, CSS, JS, JAVA, C, MySQL**
+- 💬 Ask me about **React, Redux, Typescript, MaterialUI, TailwindCSS, C++, DSA, HTML, CSS, JS, JAVA, C, MySQL**
 
 - 📫 How to reach me **sohilkr88@gmail.com**
 
