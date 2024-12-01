@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm puzzledBird</h1>
-<h3 align="center">A Passonate Frontend Developer with experience of 2+ year</h3>
+<h3 align="center">A Passonate Frontend Developer with experience of 2+ year SDE-1 @Bijak</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sss1stclass&label=Profile%20views&color=0e75b6&style=flat" alt="sss1stclass" /> </p>
 
